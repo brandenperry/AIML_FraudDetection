@@ -1,0 +1,6 @@
+{
+  "model_selected": "focal loss",
+  "pr_auc": 0.7310260878159937,
+  "cost_optimal_threshold": 0.2871963083744049,
+  "review_cost_assumption": 10
+}

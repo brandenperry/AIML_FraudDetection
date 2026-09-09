@@ -1,0 +1,17 @@
+{
+  "f1_optimal_threshold": 0.9374346733093262,
+  "cost_optimal_threshold": 0.7160953879356384,
+  "review_cost_assumption": 10,
+  "model_selected": "baseline",
+  "baseline_cv_pr_auc": 0.850234088070906,
+  "tuned_cv_pr_auc": 0.8489712127608521,
+  "tuned_params": {
+    "subsample": 0.8,
+    "n_estimators": 300,
+    "min_child_weight": 5,
+    "max_depth": 6,
+    "learning_rate": 0.1,
+    "gamma": 0.3,
+    "colsample_bytree": 0.7
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "f1_optimal_threshold": 0.41,
+  "cost_optimal_threshold": 0.3,
+  "review_cost_assumption": 10,
+  "model_selected": "baseline",
+  "baseline_cv_pr_auc": 0.8409050015750309,
+  "tuning_note": "Two RandomizedSearchCV attempts (different search spaces) both scored lower than the baseline under 3-fold CV PR-AUC (~0.839-0.840 vs ~0.841); tuning was dropped in favor of the baseline."
+}
